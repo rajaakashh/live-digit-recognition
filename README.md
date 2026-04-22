@@ -51,3 +51,6 @@ The user can draw a digit and webcame capture it and the system predicts it in r
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+## 📷 Demo
+
+![Live Demo](assets/demo.png)
