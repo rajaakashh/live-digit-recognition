@@ -48,6 +48,9 @@ The user can draw a digit and webcame capture it and the system predicts it in r
 ## 📷 Demo
 
 ![Live Demo](assets/demo.png.png)
+![Live Demo](assets/demo1.png)
+![Live Demo](assets/demo2.png)
+![Live Demo](assets/demo3.png)
 ##  How to Run
 
 ### 1. Install dependencies
