@@ -45,12 +45,12 @@ The user can draw a digit and webcame capture it and the system predicts it in r
 8. Display predicted digit on screen  
 
 ---
+## 📷 Demo
 
+![Live Demo](assets/demo.png)
 ##  How to Run
 
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
-## 📷 Demo
 
-![Live Demo](assets/demo.png)
